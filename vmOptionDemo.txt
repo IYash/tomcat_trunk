@@ -1,0 +1,6 @@
+-Dcatalina.home=D:\workspace4idea\svn\tomcat-trunk 
+-Dcatalina.base=D:\workspace4idea\svn\tomcat-trunk 
+-Djava.endorsed.dirs=D:\workspace4idea\svn\tomcat-trunk 
+-Djava.io.tmpdir=D:\workspace4idea\svn\tomcat-trunk 
+-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager 
+-Djava.util.logging.config.file=D:\workspace4idea\svn\tomcat-trunk\conf\logging.properties
